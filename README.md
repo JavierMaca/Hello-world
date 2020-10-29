@@ -1,9 +1,6 @@
 # Hello-world
-Mi primer repositorio!
+Mi primer repositorio en gitHub!
 
 EDITANDO RAMA DEVELOP
-!!!!!!!!!!!!!!!!!!!!!!!!
-
-OOOOOOOOOOOOOOOOOOOOOOOO
-editando la RAMA!
-Ingeniero en informatica!
+editando la rama readme edits!
+JAVIER MACA MUÑOZ
