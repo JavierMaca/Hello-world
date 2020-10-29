@@ -1,9 +1,9 @@
 # Hello-world
-Mi primer repositorio!
+Mi primer repositorio en gitHub!
 
 
-editando la RAMA!
-Ingeniero en informatica!
+editando la rama readme edits!
+
+Javier Maca Ingeniero en informatica!
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
